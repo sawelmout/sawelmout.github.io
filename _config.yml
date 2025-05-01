@@ -1,0 +1,4 @@
+title: My Blog
+description: A blog about high school exercises
+theme: jekyll-theme-cayman # You can change the theme here if you'd like
+markdown: kramdown
