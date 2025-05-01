@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Math Exercise: Solve the Equation"
+title: "Math Exercise: Solve for x"
 ---
 
 ### Question:
 Solve for x:  
-`2x + 5 = 15`
+`2x + 4 = 10`
 
 <details>
-<summary>Click here to show the solution</summary>
+<summary>Click here to see the solution</summary>
 
 **Solution:**  
-`2x + 5 = 15`  
-Subtract 5 from both sides: `2x = 10`  
-Divide both sides by 2: `x = 5`
+`2x + 4 = 10`  
+Subtract 4: `2x = 6`  
+Divide by 2: `x = 3`
 
 </details>
